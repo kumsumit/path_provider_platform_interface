@@ -143,10 +143,10 @@
       "name": "path_provider_platform_interface",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2023-09-08T10:51:10.606705Z",
+  "generated": "2023-09-12T07:01:08.060209Z",
   "generator": "pub",
-  "generatorVersion": "3.1.0"
+  "generatorVersion": "3.1.1"
 }
