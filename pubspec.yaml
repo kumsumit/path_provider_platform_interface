@@ -5,16 +5,16 @@ repository: https://github.com/flutter/packages/tree/main/packages/path_provider
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+path_provider%22
 # NOTE: We strongly prefer non-breaking changes, even at the expense of a
 # less-clean API. See https://flutter.dev/go/platform-interface-breaking-changes
-version: 2.1.1
+version: 2.1.2
 
 environment:
-  sdk: ">=3.1.0 <4.0.0"
-  flutter: ">=3.13.0"
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=3.19.3"
 
 dependencies:
   flutter:
     sdk: flutter
-  platform: ^3.0.0
+  platform: ^3.1.4
   plugin_platform_interface:
     git: https://github.com/kumsumit/plugin_platform_interface.git
 
